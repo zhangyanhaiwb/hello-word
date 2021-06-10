@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+Hi humans!
+my first textWord is too easy! I wish it is well.
+
